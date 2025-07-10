@@ -1,24 +1,19 @@
 {
-  "name": "rupadana/filament-api-service",
+  "name": "berttholio-create/filament-api-service",
   "description": "A simple api service for supporting filamentphp",
   "keywords": [
-    "rupadana",
+    "berttholio-create",
     "laravel",
     "api-service",
     "api",
     "filament",
     "filament api"
   ],
-  "homepage": "https://github.com/rupadana/api-service",
-  "support": {
-    "issues": "https://github.com/rupadana/api-service/issues",
-    "source": "https://github.com/rupadana/api-service"
-  },
+  "homepage": "https://github.com/berttholio-create/api-service",
   "license": "MIT",
   "authors": [
     {
-      "name": "Rupadana",
-      "email": "rupadanawayan@gmail.com",
+      "name": "Berttholio-Create",
       "role": "Developer"
     }
   ],
