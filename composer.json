@@ -1,6 +1,6 @@
 {
   "name": "berttholio-create/filament-api-service",
-  "description": "A simple api service for supporting filamentphp",
+  "description": "Fork of rupadana/filament-api-service with custom tenancy routing.",
   "keywords": [
     "berttholio-create",
     "laravel",
@@ -9,7 +9,7 @@
     "filament",
     "filament api"
   ],
-  "homepage": "https://github.com/berttholio-create/api-service",
+  "homepage": "https://github.com/berttholio-create/filament-api-service",
   "license": "MIT",
   "authors": [
     {
