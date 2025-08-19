@@ -47,7 +47,7 @@ Route::prefix('api')
                             $apiServicePlugin->route($panel);
                         });
                 }
-            } catch (\Exception $e) {
+            } catch (Exception $e) {
                 // Handle exceptions
             }
         }
